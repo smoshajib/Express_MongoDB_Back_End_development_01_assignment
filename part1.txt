@@ -1,0 +1,25 @@
+
+--------------Ans 1-4 ---------------------:
+1.In web development, the client-side refers to the part of an application that runs in the user's web browser and handles the presentation and user interactions. 
+It typically involves HTML, CSS, and JavaScript. Server-side, on the other hand, 
+refers to the part that runs on the server and handles tasks such as processing requests, accessing databases, and generating responses.
+ The main difference is that client-side code executes on the user's device, while server-side code executes on the server.
+
+2.An HTTP request is a message sent by a client (such as a web browser) to a server, specifying an action to be performed. 
+There are several types of HTTP requests, including:
+
+GET: Retrieves data from a server.
+POST: Submits data to a server to create a new resource.
+PUT: Updates an existing resource on the server.
+DELETE: Requests the deletion of a resource.
+PATCH: Partially updates an existing resource.
+JSON (JavaScript Object Notation) is a lightweight data interchange format. It is commonly used for representing structured data in a human-readable format. In web development, JSON is often used for data serialization and communication between web services and applications. It is widely supported in various programming languages and is a popular choice for API responses and data exchange.
+
+3.In web development, middleware refers to software components or functions that sit between the web application's request and response. 
+It intercepts and processes the requests, performing various tasks such as logging, authentication, authorization, error handling, or data manipulation. 
+For example, a middleware function can be used to authenticate users before granting access to protected routes in a web application.
+
+4.In the Model-View-Controller (MVC) architectural pattern, a controller is responsible for handling user input, processing requests,
+ and coordinating the flow of data between the model (data layer) and the view (presentation layer). It contains the application logic, 
+receives requests from the user interface, interacts with the model to retrieve or update data, and selects the appropriate view to render the response. 
+The controller acts as a mediator between the model and the view, ensuring separation of concerns and maintaining the overall application structure.
